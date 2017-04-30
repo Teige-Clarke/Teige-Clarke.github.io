@@ -1,0 +1,28 @@
+body {
+  background: #C1A07F url("http://www.lauraspetservice.com/Brown-20Paw-20Pattern-202.jpg") center;
+
+}
+
+nav {
+  background: #C1A07F;
+  max width: 200px;
+  length: 800px;
+  margin: 0;
+  padding: 1em;
+  font-size: 18px;
+  float: left;
+  font-family: 'Paytone One', sans-serif;
+  border: 1px solid black;
+
+}
+li {
+    text-align: left;
+}
+
+u{
+  color: darkred;
+}
+
+article{
+  border-bottom: 3px solid black;
+}
